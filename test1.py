@@ -1,2 +1,2 @@
 print("hi")
-print("hellooooooooooooooooooooooo ")
+print("000000000000000000 ")
